@@ -1,0 +1,5 @@
+./coco/images/FLIR_Dataset/training/Data/FLIR_06663.jpeg
+./coco/images/FLIR_Dataset/training/Data/FLIR_05286.jpeg
+
+
+
